@@ -10,7 +10,7 @@ I am a **full-stack developer** specializing in web development, with a passion 
 
 Here are some of the technologies I work with:
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white), ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=white)
 - **Frameworks and Tools**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - **Other**: ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
@@ -26,8 +26,8 @@ Here are some of my recent projects:
 
 If you want to get in touch, you can find me on:
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white): [LinkedIn](https://www.linkedin.com/in/alexsmith)
-- ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white): [Twitter](https://twitter.com/alexsmith_dev)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white): [LinkedIn](https://www.linkedin.com/in/orion-beauny-sugot)
+- ![Medium](https://img.shields.io/badge/-Medium-1DA1F2?style=flat-square&logo=medium&logoColor=white): [Medium](https://medium.com/@orion-beauny-sugot)
 
 Or you can send me an [✉️](mailto:orion-beauny-sugot@ik.me).
 
