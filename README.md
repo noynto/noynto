@@ -27,7 +27,7 @@ Here are some of my recent projects:
 If you want to get in touch, you can find me on:
 
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white): [LinkedIn](https://www.linkedin.com/in/orion-beauny-sugot)
-- ![Medium](https://img.shields.io/badge/-Medium-1DA1F2?style=flat-square&logo=medium&logoColor=white): [Medium](https://medium.com/@orion-beauny-sugot)
+- ![Medium](https://img.shields.io/badge/-Medium-292929?style=flat-square&logo=medium&logoColor=white): [Medium](https://medium.com/@orion-beauny-sugot)
 
 Or you can send me an [✉️](mailto:orion-beauny-sugot@ik.me).
 
