@@ -1,12 +1,20 @@
-# Hi, I'm Orion Beauny-Sugot 👋
+# You digged deep to found my profile... No, I'm kidding, kindly welcome
 
-Welcome to my GitHub profile! 🌟
+Well, my name is [Orion](https://en.wikipedia.org/wiki/Orion_(constellation)), you probably expect that I'm a developer because of my [github profile](https://github.com/noynto) and yes that is TRUE. 
 
-## 🧑‍💻 About Me
+Humm, alright three things about me,
+
+- **Learning**, like you and I do it every time in our lives, but I really enjoy learning new things mostly in the [IT](https://en.wikipedia.org/wiki/Information_technology) area.
+- **Testing and trying**, those are related to the previous point about [IT](https://en.wikipedia.org/wiki/Information_technology) because how to be better at what you learn, except by doing it yourself.
+- **Sharing**, maybe the end of those points because I know something and I just want to share to help others and also get credibility for what I know and what I can do.
+
+Before I can continue, you should know that I'm a **freelancer** and you can contact me anytime.
+
+## Java
 
 I am a **full-stack developer** specializing in web development, with a passion for creating scalable and user-friendly applications. I strive to build software that improves people's lives and enhances user experiences.
 
-## 🛠️ Skills and Technologies
+## Skills and Technologies
 
 Here are some of the technologies I work with:
 
@@ -14,15 +22,8 @@ Here are some of the technologies I work with:
 - **Frameworks and Tools**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - **Other**: ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 💻 Recent Projects
 
-Here are some of my recent projects:
-
-- **WeatherApp**: 🌤️ A web application that provides real-time weather information for any location. It includes data visualization features and allows users to track weather trends. [View the repository](https://github.com/alexsmith/WeatherApp)
-
-- **TaskManager**: 📋 A task management tool that helps users organize and prioritize their tasks. It includes features such as to-do lists, due date reminders, and task sharing. [View the repository](https://github.com/alexsmith/TaskManager)
-
-## 📬 How to Contact Me
+## How to Contact Me
 
 If you want to get in touch, you can find me on:
 
