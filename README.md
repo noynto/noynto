@@ -24,7 +24,7 @@ Nevertheless, a full *web* project cannot be fulfilled without an [interface](do
 
 [Interface Development](docs/interface.md)
 
-## How to contact me
+## 🎊 How to contact me
 
 Interesting, if you reaching on purpose or if you still reading that section, you probably want to contact me.
 
