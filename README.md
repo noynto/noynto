@@ -12,17 +12,17 @@ Before I can continue, you should know that I'm a **freelancer** and you can [co
 
 ## What am I able to do
 
-I've started my journey as a backend developer with [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) as a partner. So, the Java language will be the basis of every [backend project](docs/server).
+I've started my journey as a backend developer with [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) as a partner. So, the Java language will be the basis of every [backend project](docs/server.md).
 
-[Server development](docs/server)
+[Server development](docs/server.md)
 
-Also, as a backend developer, the [ops](docs/operator) zone is quite close, and I faced that *wall*. So, classical system operations, [Docker](https://www.docker.com/), and [Kubernetes](https://kubernetes.io/) are enjoyable tools that I love to use and play with.
+Also, as a backend developer, the [ops](docs/operator.md) zone is quite close, and I faced that *wall*. So, classical system operations, [Docker](https://www.docker.com/), and [Kubernetes](https://kubernetes.io/) are enjoyable tools that I love to use and play with.
 
-[Operating system](docs/operator)
+[Operating system](docs/operator.md)
 
-Nevertheless, a full *web* project cannot be fulfilled without an [interface](docs/interface)?! Thus, [Angular](https://angular.dev/) and [Vue](https://vuejs.org/) are nasty choices that I've made the use of on most interfaces that I've done.
+Nevertheless, a full *web* project cannot be fulfilled without an [interface](docs/interface.md)?! Thus, [Angular](https://angular.dev/) and [Vue](https://vuejs.org/) are nasty choices that I've made the use of on most interfaces that I've done.
 
-[Interface Development](docs/interface)
+[Interface Development](docs/interface.md)
 
 ## How to contact me
 
